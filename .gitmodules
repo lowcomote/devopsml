@@ -1,0 +1,3 @@
+[submodule "at.jku.bise.devopsml.spem2"]
+	path = at.jku.bise.devopsml.spem2
+	url = git@github.com:alessandrocolantoni/at.jku.bise.devopsml.spem2.git
