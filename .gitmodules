@@ -1,9 +1,9 @@
 [submodule "devopsml.spem2"]
-	path = devopsml.spem2
+	path = at.jku.bise.devopsml.spem2
 	url = git@github.com:lowcomote/devopsml.spem2.git
 [submodule "devopsml.platformmm"]
-	path = devopsml.platformmm
+	path = at.jku.bise.devopsml.platformmm
 	url = git@github.com:lowcomote/devopsml.platformmm.git
 [submodule "devopsml.linkingmm"]
-	path = devopsml.linkingmm
+	path = at.jku.bise.devopsml.linkingmm
 	url = git@github.com:lowcomote/devopsml.linkingmm.git
